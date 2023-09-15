@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: 10.0.0.8
+    port: 6379
+    # \u5BF9\u5E94 RedissonProperties \u7C7B
+#    redisson:
+#      config: classpath:redisson.yml # \u5177\u4F53\u7684\u6BCF\u4E2A\u914D\u7F6E\u9879\uFF0C\u89C1 org.redisson.config.Config \u7C7B
